@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string-array name="name_images">
+        <item> mother</item>
+        <item> father</item>
+        <item> son </item>
+        <item> daughter </item>
+        <item> sister </item>
+        <item> brother </item>
+        <item> woman </item>
+        <item> man </item>
+        <item> boy </item>
+        <item> girl </item>
+        <item> cook </item>
+        <item> dance </item>
+        <item> give </item>
+        <item> find</item>
+    </string-array>
+</resources>
